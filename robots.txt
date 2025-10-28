@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://destiny-de.github.io/Destiny-Ehimiyein/sitemap.xml
